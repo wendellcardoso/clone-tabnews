@@ -35,3 +35,4 @@ Dia 10 - Aula 5
 Instalar o Prettier como dependencia de desenvolvimento
 Instalar as extensões do EditorConfig e Prettier
 Criar e configurar o arquivo .editorConfig
+teste commit
